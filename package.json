@@ -1,8 +1,8 @@
 {
-  "name": "com.mountaintigercoding.unitypcg",
+  "name": "com.mountaintigercoding.unityenvironmentcontrol",
   "version": "0.0.1",
-  "displayName": "MT Procedural Content Generation",
-  "description": "This is a package used to procedually spawn objects in a non-destructive fasion to create complex environments governed by simple rules",
+  "displayName": "MT Environment Control",
+  "description": "This package...(not finished)",
   "documentationUrl": "https://example.com/",
   "changelogUrl": "https://example.com/changelog.html",
   "licensesUrl": "https://example.com/licensing.html",
